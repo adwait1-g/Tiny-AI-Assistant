@@ -3,4 +3,3 @@ transformers>=0.0.0
 gradio>=0.0.0
 pandas>=0.0.0
 torch>=0.0.0
-numpy<2.0
